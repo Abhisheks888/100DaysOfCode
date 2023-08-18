@@ -1,0 +1,12 @@
+//We can also print the Java array using for-each loop. 
+//The Java for-each loop prints the array elements one by one. 
+//It holds an array element in a variable, then executes the body of the loop.
+class Demo1{  
+public static void main(String args[]){  
+int a1[]={1,2,3,4,5};  
+//printing array using for-each loop  
+for(int i:a1)  
+System.out.println(i);  
+}}  
+
+
