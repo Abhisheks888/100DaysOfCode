@@ -1,0 +1,45 @@
+
+
+
+// class Main {
+    
+//     public static void display(int num){
+//         if(num==0){//base condition in recursion
+//             return;
+//         }
+//         System.out.println(num);//54321
+//         display(num-1);
+//         System.out.println(num);
+        
+        
+        
+//     }
+//     public static void main(String[] args) {
+//         display(5);
+//     }
+// }
+
+
+
+// class HelloWorld {
+//      public static void star(int num){
+         
+//          if(num==5){
+//              return;
+//          }
+//          star(num+1);//4321 last in first out
+//          for(int i=0;i<num;i++)
+//          {
+//          System.out.print("*");
+             
+//          }
+//          System.out.println(num);
+//         // star(num+1);
+//      }
+      
+//     public static void main(String[] args) {
+       
+      
+//       star(1);
+//     }
+// }
